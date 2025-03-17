@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<billFetchResponse><responseCode>001</responseCode><errorInfo><error><errorCode>BFR022</errorCode><errorMessage>Vehicle Registered Number entered is not exists or Invalid</errorMessage></error></errorInfo></billFetchResponse>

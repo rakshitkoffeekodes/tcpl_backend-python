@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<billFetchResponse><responseCode>001</responseCode><errorInfo><error><errorCode>BFR001</errorCode><errorMessage>Incorrect / invalid Customer account</errorMessage></error></errorInfo></billFetchResponse>

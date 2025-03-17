@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<billFetchResponse><responseCode>001</responseCode><errorInfo><error><errorCode>E0380</errorCode><errorMessage>Payment channel AGT is disable for biller HDFC00000NATW1</errorMessage></error></errorInfo></billFetchResponse>

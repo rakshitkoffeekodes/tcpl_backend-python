@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<billFetchResponse><responseCode>001</responseCode><errorInfo><error><errorCode>BRP046</errorCode><errorMessage>Fetch Request not supported, only QuickPay permitted</errorMessage></error></errorInfo></billFetchResponse>

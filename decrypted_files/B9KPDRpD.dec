@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<transactionStatusResp>
+    <responseCode>000</responseCode>
+    <responseReason>SUCCESS</responseReason>
+    <txnList>
+        <agentId>CC01AC31AGTU00000006</agentId>
+        <amount>10000</amount>
+        <billerId>IDFC00000NATXM</billerId>
+        <txnDate>2025-02-26T18:12:07+06:12</txnDate>
+        <txnReferenceId>CC015057BAAA82900528</txnReferenceId>
+        <txnStatus>SUCCESS</txnStatus>
+        <mobile>9909090648</mobile>
+        <approvalRefNumber>4225022618120952</approvalRefNumber>
+        <inputParams>
+            <paramName>Vehicle Number</paramName>
+            <paramValue>GJ05RT8666</paramValue>
+        </inputParams>
+        <txnRespType>FORWARD TYPE RESPONSE</txnRespType>
+        <custConvFee>0</custConvFee>
+        <respBillNumber>NA</respBillNumber>
+        <respBillPeriod>NA</respBillPeriod>
+        <respCustomerName>RANJITBHAI VANRAJBHAI CHAUHAN</respCustomerName>
+        <respDueDate>1900-01-01</respDueDate>
+        <payRequestId>FB1N8G3GX8XZQ3ZV77EAW3L42NV50571811</payRequestId>
+    </txnList>
+    <statusRequestId>R8P3HKKPYV6XFM4VAJWVH3U8AQ850571812</statusRequestId>
+</transactionStatusResp>

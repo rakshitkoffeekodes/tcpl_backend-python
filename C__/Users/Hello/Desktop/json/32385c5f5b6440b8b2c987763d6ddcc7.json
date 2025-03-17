@@ -1,0 +1,105 @@
+{
+    "billerInfoResponse": {
+        "responseCode": "000",
+        "biller": {
+            "billerId": "INDU00000NATR2",
+            "billerName": "IndusInd Bank FASTag",
+            "billerCategory": "Fastag",
+            "billerAdhoc": "false",
+            "billerCoverage": "IND",
+            "billerFetchRequiremet": "MANDATORY",
+            "billerPaymentExactness": "Exact and above",
+            "billerSupportBillValidation": "NOT_SUPPORTED",
+            "supportPendingStatus": "Yes",
+            "supportDeemed": "Yes",
+            "billerStatus": "ACTIVE",
+            "billerTimeout": "120",
+            "billerInputParams": {
+                "paramInfo": {
+                    "paramName": "Vehicle Registration Number",
+                    "dataType": "ALPHANUMERIC",
+                    "isOptional": "false",
+                    "minLength": "4",
+                    "maxLength": "10"
+                }
+            },
+            "billerAdditionalInfo": null,
+            "billerAmountOptions": "|BASE_BILL_AMOUNT,,,",
+            "billerPaymentModes": "Internet Banking, Debit Card, Credit Card, Prepaid Card, IMPS, Cash, UPI, Wallet, NEFT, AEPS, Account Transfer, Bharat QR, USSD",
+            "billerDescription": null,
+            "rechargeAmountInValidationRequest": null,
+            "billerPaymentChannels": {
+                "paymentChannelInfo": [
+                    {
+                        "paymentChannelName": "INT",
+                        "minAmount": "100",
+                        "maxAmount": "10000000"
+                    },
+                    {
+                        "paymentChannelName": "INTB",
+                        "minAmount": "100",
+                        "maxAmount": "10000000"
+                    },
+                    {
+                        "paymentChannelName": "MOB",
+                        "minAmount": "100",
+                        "maxAmount": "10000000"
+                    },
+                    {
+                        "paymentChannelName": "MOBB",
+                        "minAmount": "100",
+                        "maxAmount": "10000000"
+                    },
+                    {
+                        "paymentChannelName": "POS",
+                        "minAmount": "100",
+                        "maxAmount": "10000000"
+                    },
+                    {
+                        "paymentChannelName": "MPOS",
+                        "minAmount": "100",
+                        "maxAmount": "10000000"
+                    },
+                    {
+                        "paymentChannelName": "ATM",
+                        "minAmount": "100",
+                        "maxAmount": "10000000"
+                    },
+                    {
+                        "paymentChannelName": "BNKBRNCH",
+                        "minAmount": "100",
+                        "maxAmount": "10000000"
+                    },
+                    {
+                        "paymentChannelName": "KIOSK",
+                        "minAmount": "100",
+                        "maxAmount": "10000000"
+                    },
+                    {
+                        "paymentChannelName": "AGT",
+                        "minAmount": "100",
+                        "maxAmount": "10000000"
+                    },
+                    {
+                        "paymentChannelName": "BSC",
+                        "minAmount": "100",
+                        "maxAmount": "10000000"
+                    }
+                ]
+            },
+            "billerAdditionalInfoPayment": null,
+            "planAdditionalInfo": null,
+            "planMdmRequirement": null,
+            "billerResponseType": null,
+            "billerPlanResponseParams": null,
+            "interchangeFeeCCF1": {
+                "feeCode": "CCF1",
+                "feeDirection": "C2B",
+                "flatFee": "0",
+                "percentFee": "0.00",
+                "feeMinAmt": "1",
+                "feeMaxAmt": "2147483647"
+            }
+        }
+    }
+}

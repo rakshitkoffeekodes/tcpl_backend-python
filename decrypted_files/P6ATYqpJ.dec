@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<billFetchResponse><responseCode>001</responseCode><errorInfo><error><errorCode>ERR033</errorCode><errorMessage>Too many request for that Biller</errorMessage></error></errorInfo></billFetchResponse>

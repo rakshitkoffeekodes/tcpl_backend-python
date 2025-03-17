@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<billFetchResponse><responseCode>000</responseCode><inputParams><input><paramName>Customer ID</paramName><paramValue>500001464963</paramValue></input></inputParams><billerResponse><billAmount>26200</billAmount><billDate>2025-01-11</billDate><billNumber>r105300422675</billNumber><billPeriod>NA</billPeriod><customerName>rajubhai vanrajbhai chauhan </customerName><dueDate>2025-01-27</dueDate></billerResponse></billFetchResponse>

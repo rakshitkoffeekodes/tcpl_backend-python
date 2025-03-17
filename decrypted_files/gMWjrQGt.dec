@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<billFetchResponse><responseCode>001</responseCode><errorInfo><error><errorCode>BFR002</errorCode><errorMessage>Invalid combination of customer parameters</errorMessage></error></errorInfo></billFetchResponse>

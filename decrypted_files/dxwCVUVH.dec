@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<billFetchResponse><responseCode>001</responseCode><errorInfo><error><errorCode>BFR004</errorCode><errorMessage>Payment received for the billing period - no bill due</errorMessage></error></errorInfo></billFetchResponse>

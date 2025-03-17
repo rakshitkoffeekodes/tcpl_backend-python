@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<transactionStatusResp>
+    <responseCode>205</responseCode>
+    <responseReason>FAILURE</responseReason>
+    <errorInfo>
+        <error>
+            <errorCode>V4008</errorCode>
+            <errorMessage>No Txn ID mapped against REQUEST_ID</errorMessage>
+        </error>
+    </errorInfo>
+</transactionStatusResp>

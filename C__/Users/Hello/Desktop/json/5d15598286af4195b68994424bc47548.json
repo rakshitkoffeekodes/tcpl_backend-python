@@ -1,0 +1,111 @@
+{
+    "billerInfoResponse": {
+        "responseCode": "000",
+        "biller": {
+            "billerId": "DGVCL0000GUJ01",
+            "billerName": "Dakshin Gujarat Vij Company Limited (DGVCL)",
+            "billerCategory": "Electricity",
+            "billerAdhoc": "true",
+            "billerCoverage": "IND-GUJ",
+            "billerFetchRequiremet": "NOT_SUPPORTED",
+            "billerPaymentExactness": null,
+            "billerSupportBillValidation": "OPTIONAL",
+            "supportPendingStatus": "Yes",
+            "supportDeemed": "Yes",
+            "billerStatus": "ACTIVE",
+            "billerTimeout": "480",
+            "billerInputParams": {
+                "paramInfo": {
+                    "paramName": "Consumer Number",
+                    "dataType": "NUMERIC",
+                    "isOptional": "false",
+                    "minLength": "5",
+                    "maxLength": "11",
+                    "regEx": "^([0-9]{11}|[0-9]{5})$",
+                    "visibility": "true"
+                }
+            },
+            "billerAdditionalInfo": {
+                "paramInfo": {
+                    "paramName": "Customer Name"
+                }
+            },
+            "billerAmountOptions": "|BASE_BILL_AMOUNT,,,",
+            "billerPaymentModes": "Internet Banking, Debit Card, Credit Card, Prepaid Card, IMPS, UPI, Wallet, NEFT, AEPS, Account Transfer",
+            "billerDescription": null,
+            "rechargeAmountInValidationRequest": null,
+            "billerPaymentChannels": {
+                "paymentChannelInfo": [
+                    {
+                        "paymentChannelName": "INT",
+                        "minAmount": "100",
+                        "maxAmount": "500000000"
+                    },
+                    {
+                        "paymentChannelName": "INTB",
+                        "minAmount": "100",
+                        "maxAmount": "500000000"
+                    },
+                    {
+                        "paymentChannelName": "MOB",
+                        "minAmount": "100",
+                        "maxAmount": "500000000"
+                    },
+                    {
+                        "paymentChannelName": "MOBB",
+                        "minAmount": "100",
+                        "maxAmount": "500000000"
+                    },
+                    {
+                        "paymentChannelName": "POS",
+                        "minAmount": "100",
+                        "maxAmount": "500000000"
+                    },
+                    {
+                        "paymentChannelName": "MPOS",
+                        "minAmount": "100",
+                        "maxAmount": "500000000"
+                    },
+                    {
+                        "paymentChannelName": "ATM",
+                        "minAmount": "100",
+                        "maxAmount": "500000000"
+                    },
+                    {
+                        "paymentChannelName": "BNKBRNCH",
+                        "minAmount": "100",
+                        "maxAmount": "500000000"
+                    },
+                    {
+                        "paymentChannelName": "KIOSK",
+                        "minAmount": "100",
+                        "maxAmount": "500000000"
+                    },
+                    {
+                        "paymentChannelName": "AGT",
+                        "minAmount": "100",
+                        "maxAmount": "500000000"
+                    },
+                    {
+                        "paymentChannelName": "BSC",
+                        "minAmount": "100",
+                        "maxAmount": "500000000"
+                    }
+                ]
+            },
+            "billerAdditionalInfoPayment": null,
+            "planAdditionalInfo": null,
+            "planMdmRequirement": "NOT_SUPPORTED",
+            "billerResponseType": "SINGLE",
+            "billerPlanResponseParams": null,
+            "interchangeFeeCCF1": {
+                "feeCode": "CCF1",
+                "feeDirection": "C2B",
+                "flatFee": "0",
+                "percentFee": "0.00",
+                "feeMinAmt": "0",
+                "feeMaxAmt": "999999999"
+            }
+        }
+    }
+}

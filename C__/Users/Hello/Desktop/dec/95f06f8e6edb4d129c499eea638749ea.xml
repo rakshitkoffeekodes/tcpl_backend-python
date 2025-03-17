@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<billerInfoResponse>
+    <responseCode>000</responseCode>
+    <biller>
+        <billerId>VODA00000NAT96</billerId>
+        <billerName>Vi Postpaid (Fetch and Pay)</billerName>
+        <billerCategory>Mobile Postpaid</billerCategory>
+        <billerAdhoc>true</billerAdhoc>
+        <billerCoverage>IND</billerCoverage>
+        <billerFetchRequiremet>MANDATORY</billerFetchRequiremet>
+        <billerPaymentExactness />
+        <billerSupportBillValidation>NOT_SUPPORTED</billerSupportBillValidation>
+        <supportPendingStatus>Yes</supportPendingStatus>
+        <supportDeemed>Yes</supportDeemed>
+        <billerStatus>ACTIVE</billerStatus>
+        <billerTimeout>480</billerTimeout>
+        <billerInputParams>
+            <paramInfo>
+                <paramName>Mobile Number</paramName>
+                <dataType>NUMERIC</dataType>
+                <isOptional>false</isOptional>
+                <minLength>10</minLength>
+                <maxLength>10</maxLength>
+                <regEx>^[6-9]{1}[0-9]{9}$</regEx>
+                <visibility>true</visibility>
+            </paramInfo>
+        </billerInputParams>
+        <billerAdditionalInfo />
+        <billerAmountOptions>BASE_BILL_AMOUNT,,,</billerAmountOptions>
+        <billerPaymentModes>Internet Banking, Debit Card, Credit Card, Prepaid Card, IMPS, UPI, Wallet, NEFT, AEPS</billerPaymentModes>
+        <billerDescription />
+        <rechargeAmountInValidationRequest />
+        <billerPaymentChannels>
+            <paymentChannelInfo>
+                <paymentChannelName>INTB</paymentChannelName>
+                <minAmount>100</minAmount>
+                <maxAmount>100000000</maxAmount>
+            </paymentChannelInfo>
+            <paymentChannelInfo>
+                <paymentChannelName>MOB</paymentChannelName>
+                <minAmount>100</minAmount>
+                <maxAmount>100000000</maxAmount>
+            </paymentChannelInfo>
+            <paymentChannelInfo>
+                <paymentChannelName>MOBB</paymentChannelName>
+                <minAmount>100</minAmount>
+                <maxAmount>100000000</maxAmount>
+            </paymentChannelInfo>
+            <paymentChannelInfo>
+                <paymentChannelName>INT</paymentChannelName>
+                <minAmount>100</minAmount>
+                <maxAmount>100000000</maxAmount>
+            </paymentChannelInfo>
+        </billerPaymentChannels>
+        <billerAdditionalInfoPayment />
+        <planAdditionalInfo />
+        <planMdmRequirement>NOT_SUPPORTED</planMdmRequirement>
+        <billerResponseType />
+        <billerPlanResponseParams />
+        <interchangeFeeCCF1>
+            <feeCode>CCF1</feeCode>
+            <feeDirection>C2B</feeDirection>
+            <flatFee>0</flatFee>
+            <percentFee>0.00</percentFee>
+            <feeMinAmt>0</feeMinAmt>
+            <feeMaxAmt>2147483647</feeMaxAmt>
+        </interchangeFeeCCF1>
+    </biller>
+</billerInfoResponse>

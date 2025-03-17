@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<billerInfoResponse>
+    <responseCode>000</responseCode>
+    <biller>
+        <billerId>INDU00000NATR2</billerId>
+        <billerName>IndusInd Bank FASTag</billerName>
+        <billerCategory>Fastag</billerCategory>
+        <billerAdhoc>false</billerAdhoc>
+        <billerCoverage>IND</billerCoverage>
+        <billerFetchRequiremet>MANDATORY</billerFetchRequiremet>
+        <billerPaymentExactness>Exact and above</billerPaymentExactness>
+        <billerSupportBillValidation>NOT_SUPPORTED</billerSupportBillValidation>
+        <supportPendingStatus>Yes</supportPendingStatus>
+        <supportDeemed>Yes</supportDeemed>
+        <billerStatus>ACTIVE</billerStatus>
+        <billerTimeout>120</billerTimeout>
+        <billerInputParams>
+            <paramInfo>
+                <paramName>Vehicle Registration Number</paramName>
+                <dataType>ALPHANUMERIC</dataType>
+                <isOptional>false</isOptional>
+                <minLength>4</minLength>
+                <maxLength>10</maxLength>
+            </paramInfo>
+        </billerInputParams>
+        <billerAdditionalInfo />
+        <billerAmountOptions>|BASE_BILL_AMOUNT,,,</billerAmountOptions>
+        <billerPaymentModes>Internet Banking, Debit Card, Credit Card, Prepaid Card, IMPS, Cash, UPI, Wallet, NEFT, AEPS, Account Transfer, Bharat QR, USSD</billerPaymentModes>
+        <billerDescription />
+        <rechargeAmountInValidationRequest />
+        <billerPaymentChannels>
+            <paymentChannelInfo>
+                <paymentChannelName>INT</paymentChannelName>
+                <minAmount>100</minAmount>
+                <maxAmount>10000000</maxAmount>
+            </paymentChannelInfo>
+            <paymentChannelInfo>
+                <paymentChannelName>INTB</paymentChannelName>
+                <minAmount>100</minAmount>
+                <maxAmount>10000000</maxAmount>
+            </paymentChannelInfo>
+            <paymentChannelInfo>
+                <paymentChannelName>MOB</paymentChannelName>
+                <minAmount>100</minAmount>
+                <maxAmount>10000000</maxAmount>
+            </paymentChannelInfo>
+            <paymentChannelInfo>
+                <paymentChannelName>MOBB</paymentChannelName>
+                <minAmount>100</minAmount>
+                <maxAmount>10000000</maxAmount>
+            </paymentChannelInfo>
+            <paymentChannelInfo>
+                <paymentChannelName>POS</paymentChannelName>
+                <minAmount>100</minAmount>
+                <maxAmount>10000000</maxAmount>
+            </paymentChannelInfo>
+            <paymentChannelInfo>
+                <paymentChannelName>MPOS</paymentChannelName>
+                <minAmount>100</minAmount>
+                <maxAmount>10000000</maxAmount>
+            </paymentChannelInfo>
+            <paymentChannelInfo>
+                <paymentChannelName>ATM</paymentChannelName>
+                <minAmount>100</minAmount>
+                <maxAmount>10000000</maxAmount>
+            </paymentChannelInfo>
+            <paymentChannelInfo>
+                <paymentChannelName>BNKBRNCH</paymentChannelName>
+                <minAmount>100</minAmount>
+                <maxAmount>10000000</maxAmount>
+            </paymentChannelInfo>
+            <paymentChannelInfo>
+                <paymentChannelName>KIOSK</paymentChannelName>
+                <minAmount>100</minAmount>
+                <maxAmount>10000000</maxAmount>
+            </paymentChannelInfo>
+            <paymentChannelInfo>
+                <paymentChannelName>AGT</paymentChannelName>
+                <minAmount>100</minAmount>
+                <maxAmount>10000000</maxAmount>
+            </paymentChannelInfo>
+            <paymentChannelInfo>
+                <paymentChannelName>BSC</paymentChannelName>
+                <minAmount>100</minAmount>
+                <maxAmount>10000000</maxAmount>
+            </paymentChannelInfo>
+        </billerPaymentChannels>
+        <billerAdditionalInfoPayment />
+        <planAdditionalInfo />
+        <planMdmRequirement />
+        <billerResponseType />
+        <billerPlanResponseParams />
+        <interchangeFeeCCF1>
+            <feeCode>CCF1</feeCode>
+            <feeDirection>C2B</feeDirection>
+            <flatFee>0</flatFee>
+            <percentFee>0.00</percentFee>
+            <feeMinAmt>1</feeMinAmt>
+            <feeMaxAmt>2147483647</feeMaxAmt>
+        </interchangeFeeCCF1>
+    </biller>
+</billerInfoResponse>

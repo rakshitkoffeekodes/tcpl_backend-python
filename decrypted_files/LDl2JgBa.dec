@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<transactionStatusResp>
+    <responseCode>000</responseCode>
+    <responseReason>SUCCESS</responseReason>
+    <txnList>
+        <agentId>CC01AC31AGTU00000006</agentId>
+        <amount>86000</amount>
+        <billerId>TORR00000NATLX</billerId>
+        <txnDate>2025-03-06T17:27:23+05:27</txnDate>
+        <txnReferenceId>CC015065BAAA83970482</txnReferenceId>
+        <txnStatus>SUCCESS</txnStatus>
+        <mobile>8652208886</mobile>
+        <approvalRefNumber>AB123456</approvalRefNumber>
+        <inputParams>
+            <paramName>City</paramName>
+            <paramValue>Surat</paramValue>
+        </inputParams>
+        <inputParams>
+            <paramName>Service Number</paramName>
+            <paramValue>501159921</paramValue>
+        </inputParams>
+        <txnRespType>FORWARD TYPE RESPONSE</txnRespType>
+        <custConvFee>0</custConvFee>
+        <respBillNumber>202050493598</respBillNumber>
+        <respBillPeriod>NA</respBillPeriod>
+        <respCustomerName>ANISH KIRITKUMAR PARIKH</respCustomerName>
+        <respDueDate>2025-03-17</respDueDate>
+        <payRequestId>JY1USZX75QW9K8TC2EP3GLOWVIJ50651726</payRequestId>
+    </txnList>
+    <statusRequestId>7C3K3MP8Z502D0CAZZUF2I0QTUN50671009</statusRequestId>
+</transactionStatusResp>

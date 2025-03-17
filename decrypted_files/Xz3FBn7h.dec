@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<billFetchResponse><responseCode>001</responseCode><errorInfo><error><errorCode>E136</errorCode><errorMessage>Input Parameters required</errorMessage></error></errorInfo></billFetchResponse>

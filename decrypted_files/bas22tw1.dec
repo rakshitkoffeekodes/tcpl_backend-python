@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ExtBillPayResponse><responseCode>000</responseCode><responseReason>Successful</responseReason><txnRefId>CC015026BAAA78856330</txnRefId><approvalRefNumber>REF000000165175707</approvalRefNumber><txnRespType>FORWARD TYPE RESPONSE</txnRespType><inputParams><input><paramName>Vehicle Number</paramName><paramValue>gj05jq7394</paramValue></input></inputParams><CustConvFee>0</CustConvFee><RespAmount>50000</RespAmount><RespBillNumber>1737860653783</RespBillNumber><RespCustomerName>RAJKUMAR R  JAT</RespCustomerName></ExtBillPayResponse>

@@ -1,0 +1,205 @@
+oprator_id,oprator_name,oprator_code,oprator_type,created_at,is_deactive,is_deleted
+1,AIRTEL,1,Mobile Recharge,2024-11-19 15:23:00.307454+05:30,t,f
+2,IDEA,2,Mobile Recharge,2024-11-19 15:23:00.307454+05:30,t,f
+3,BSNL Topup,3,Mobile Recharge,2024-11-19 15:23:00.307454+05:30,t,f
+4,BSNL Special,4,Mobile Recharge,2024-11-19 15:23:00.307454+05:30,t,f
+5,JIO,5,Mobile Recharge,2024-11-19 15:23:00.307454+05:30,t,f
+6,VODAFONE,6,Mobile Recharge,2024-11-19 15:23:00.307454+05:30,t,f
+7,AIRTEL DTH,7,DTH Recharge,2024-11-19 15:23:00.307454+05:30,t,f
+8,DISH TV,8,DTH Recharge,2024-11-19 15:23:00.307454+05:30,t,f
+9,RELIANCE BIGTV,9,DTH Recharge,2024-11-19 15:23:00.307454+05:30,t,f
+10,SUN DIRECT,10,DTH Recharge,2024-11-19 15:23:00.307454+05:30,t,f
+11,TATA SKY,11,DTH Recharge,2024-11-19 15:23:00.307454+05:30,t,f
+12,VIDEOCON D2H,12,DTH Recharge,2024-11-19 15:23:00.307454+05:30,t,f
+13,JVVNL,13,DTH Recharge,2024-11-19 15:23:00.307454+05:30,t,f
+14,Ajmer Vidyut Vitran Nigam Ltd. (AVVNL),14,Electricity Bill,2024-11-19 15:23:00.307454+05:30,t,f
+15,AIRTEL POSTPAID,15,Mobile Recharge,2024-11-19 15:23:00.307454+05:30,t,f
+16,BSNL POSTPAID,16,Mobile Recharge,2024-11-19 15:23:00.307454+05:30,t,f
+17,IDEA POSTPAID,17,Mobile Recharge,2024-11-19 15:23:00.307454+05:30,t,f
+18,TIKONA Broadband,18,Broadband/Landline,2024-11-19 15:23:00.307454+05:30,t,f
+19,VODAFONE POSTPAID,19,Mobile Recharge,2024-11-19 15:23:00.307454+05:30,t,f
+20,AIRTEL DIGITAL TV,20,DTH Recharge,2024-11-19 15:23:00.307454+05:30,t,f
+21,"DISH TV,",21,DTH Recharge,2024-11-19 15:23:00.307454+05:30,t,f
+22,"SUN DIRECT,",22,DTH Recharge,2024-11-19 15:23:00.307454+05:30,t,f
+23,"TATA SKY,",23,DTH Recharge,2024-11-19 15:23:00.307454+05:30,t,f
+24,"VIDEOCON D2H,",24,DTH Recharge,2024-11-19 15:23:00.307454+05:30,t,f
+25,AIRTEL LANDLINE,25,Broadband/Landline,2024-11-19 15:23:00.307454+05:30,t,f
+26,BSNL Landline-Online,26,Broadband/Landline,2024-11-19 15:23:00.307454+05:30,t,f
+27,Connect Broadband-Retail,27,Broadband/Landline,2024-11-19 15:23:00.307454+05:30,t,f
+28,MTNL Delhi Landline-Retail,28,Broadband/Landline,2024-11-19 15:23:00.307454+05:30,t,f
+29,MTNL Mumbai Landline-Retail,29,Broadband/Landline,2024-11-19 15:23:00.307454+05:30,t,f
+30,"Ajmer Vidyut Vitran Nigam Ltd. (AVVNL),",30,Electricity Bill,2024-11-19 15:23:00.307454+05:30,t,f
+31,Bharatpur Electricity Services Ltd. (BESL),31,Electricity Bill,2024-11-19 15:23:00.307454+05:30,t,f
+32,Bikaner Electricity Supply Limited (BKESL),32,Electricity Bill,2024-11-19 15:23:00.307454+05:30,t,f
+33,BSES Rajdhani Power Limited,33,Electricity Bill,2024-11-19 15:23:00.307454+05:30,t,f
+34,BSES Yamuna Power Limited,34,Electricity Bill,2024-11-19 15:23:00.307454+05:30,t,f
+35,Calcutta Electricity Supply Ltd (CESC LTD),35,Electricity Bill,2024-11-19 15:23:00.307454+05:30,t,f
+36,Chhattisgarh State Power Distribution Company Ltd.,36,Electricity Bill,2024-11-19 15:23:00.307454+05:30,t,f
+37,Daman and Diu Electricity,37,Electricity Bill,2024-11-19 15:23:00.307454+05:30,t,f
+38,DNH Power Distribution Company Limited,38,Electricity Bill,2024-11-19 15:23:00.307454+05:30,t,f
+39,Eastern Power Distribution Co. Ltd (APEPDCL),39,Electricity Bill,2024-11-19 15:23:00.307454+05:30,t,f
+40,Hubli Electricity Supply Company Ltd. (HESCOM),40,Electricity Bill,2024-11-19 15:23:00.307454+05:30,t,f
+41,JUSCO - JAMSHEDPUR,41,Electricity Bill,2024-11-19 15:23:00.307454+05:30,t,f
+42,Jodhpur Vidyut Vitran Nigam Ltd. (JDVVNL),42,Electricity Bill,2024-11-19 15:23:00.307454+05:30,t,f
+43,Kota Electricity Distribution Ltd. (KEDL),43,Electricity Bill,2024-11-19 15:23:00.307454+05:30,t,f
+44,Madhya Gujarat Vij Company Limited (MGVCL),44,Electricity Bill,2024-11-19 15:23:00.307454+05:30,t,f
+45,Mangalore Electricity Supply Company Ltd. (MESCOM),45,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+46,Meghalaya Power Distribution Corporati on Ltd,46,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+47,Noida Power Company Limited (NPCL),47,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+48,Paschim Gujarat Vij Company Limited (PGVCL),48,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+49,Punjab State Power Corporation Limited (PSPCL),49,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+50,SNDL Nagpur,50,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+51,Southern Power Distribution Co. Ltd (APSPDCL),51,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+52,Tata Power - Mumbai,52,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+53,Tripura State Electricity Corporation Ltd,53,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+54,Uttar Gujarat Vij Company Limited (UGVCL),54,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+55,Uttar Haryana Bijli Vitran Nigam Limited (UHBVNL),55,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+56,Uttar Pradesh Power Corp Ltd (UPPCL) - RURAL,56,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+57,Uttarakhand Power Corporation Limited,57,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+58,ADANI GAS,58,Piped Gas,2024-11-19 15:23:00.308454+05:30,t,f
+59,Gujarat Gas company Limited,59,Piped Gas,2024-11-19 15:23:00.308454+05:30,t,f
+60,Haryana City gas,60,Piped Gas,2024-11-19 15:23:00.308454+05:30,t,f
+61,IGL (Indraprasth Gas Limited),61,Piped Gas,2024-11-19 15:23:00.308454+05:30,t,f
+62,MAHANAGAR GAS LIMITED,62,Piped Gas,2024-11-19 15:23:00.308454+05:30,t,f
+63,Sabarmati Gas Limited (SGL),63,Piped Gas,2024-11-19 15:23:00.308454+05:30,t,f
+64,Siti Energy,64,Piped Gas,2024-11-19 15:23:00.308454+05:30,t,f
+65,Tripura Natural Gas Company Ltd,65,Piped Gas,2024-11-19 15:23:00.308454+05:30,t,f
+66,Unique Central Piped Gases Pvt Ltd (UCPGPL),66,Piped Gas,2024-11-19 15:23:00.308454+05:30,t,f
+67,Bharti Axa Life Insurance,67,Insurance Payment,2024-11-19 15:23:00.308454+05:30,t,f
+68,Tata AIG Life,68,Insurance Payment,2024-11-19 15:23:00.308454+05:30,t,f
+69,Delhi Jal Board-Retail,69,Water,2024-11-19 15:23:00.308454+05:30,t,f
+70,Municipal Corporation of Gurugram-Retail,70,Water,2024-11-19 15:23:00.308454+05:30,t,f
+71,UIT Bhiwadi-Retail,71,Water,2024-11-19 15:23:00.308454+05:30,t,f
+72,Uttarakhand Jal Sansthan(B2B)-Retail,72,Water,2024-11-19 15:23:00.308454+05:30,t,f
+73,RELIANCE,73,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+74,TATA INDICOM,74,Broadband/Landline,2024-11-19 15:23:00.308454+05:30,t,f
+75,AIRTEL Datacard,75,Broadband/Landline,2024-11-19 15:23:00.308454+05:30,t,f
+76,AIRCEL,76,Mobile Recharge,2024-11-19 15:23:00.308454+05:30,t,f
+77,"IDEA,",77,Mobile Recharge,2024-11-19 15:23:00.308454+05:30,t,f
+78,BSNL,78,Mobile Recharge,2024-11-19 15:23:00.308454+05:30,t,f
+79,"VODAFONE ,",79,Mobile Recharge,2024-11-19 15:23:00.308454+05:30,t,f
+80,Connect Broadband-Online,80,Broadband/Landline,2024-11-19 15:23:00.308454+05:30,t,f
+81,Hathway Broadband - Retail,81,Broadband/Landline,2024-11-19 15:23:00.308454+05:30,t,f
+82,Hathway Broadband - Online,82,Broadband/Landline,2024-11-19 15:23:00.308454+05:30,t,f
+83,"MTS,",83,Mobile Recharge,2024-11-19 15:23:00.308454+05:30,t,f
+84,Jharkhand Bijli Vitran Nigam Limited (JBVNL),84,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+85,Adani Electricity Mumbai Limited,85,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+86,Torrent Power (Agra),86,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+87,Torrent Power (Ahmedabad),87,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+88,Tamil Nadu Electricity Board (TNEB),88,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+89,TP Ajmer Distribution Ltd (TPADL),89,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+90,BSNL Landline-Retail,90,Broadband/Landline,2024-11-19 15:23:00.308454+05:30,t,f
+91,MTNL Delhi Landline-Online,91,Broadband/Landline,2024-11-19 15:23:00.308454+05:30,t,f
+92,UIT Bhiwadi-Online,92,Broadband/Landline,2024-11-19 15:23:00.308454+05:30,t,f
+93,Uttarakhand Jal Sansthan(B2C)-Online,93,Water,2024-11-19 15:23:00.308454+05:30,t,f
+94,Delhi Jal Board-Online,94,Water,2024-11-19 15:23:00.308454+05:30,t,f
+95,Municipal Corporation of Gurugram-Online,95,Water,2024-11-19 15:23:00.308454+05:30,t,f
+96,Vadodara Gas Limited,96,Piped Gas,2024-11-19 15:23:00.308454+05:30,t,f
+97,ICICI Pru Life,97,Insurance Payment,2024-11-19 15:23:00.308454+05:30,t,f
+98,Life Insurance Corporation of India(LIC),98,Insurance Payment,2024-11-19 15:23:00.308454+05:30,t,f
+99,Department of Power Nagaland,99,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+100,Sikkim Power - URBAN,100,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+101,Goa Electricity Department,101,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+102,Kanpur Electricity Supply Company Ltd.,102,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+103,Kerala State Electricity Board Ltd. (KSEBL),103,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+104,Greater Warangal Municipal Corporation - Water,104,Water,2024-11-19 15:23:00.308454+05:30,t,f
+105,Municipal Corporation of Amritsar,105,Water,2024-11-19 15:23:00.308454+05:30,t,f
+106,Ranchi Municipal Corporation,106,Water,2024-11-19 15:23:00.308454+05:30,t,f
+107,Silvassa Municipal Council,107,Water,2024-11-19 15:23:00.308454+05:30,t,f
+108,Ujjain Nagar Nigam - PHED,108,Water,2024-11-19 15:23:00.308454+05:30,t,f
+109,Central UP Gas,109,Piped Gas,2024-11-19 15:23:00.308454+05:30,t,f
+110,Charotar Gas Sahakari Mandali Limited,110,Piped Gas,2024-11-19 15:23:00.308454+05:30,t,f
+111,GAIL Gas Limited,111,Piped Gas,2024-11-19 15:23:00.308454+05:30,t,f
+112,Indian Oil Adani Gas Pvt Ltd,112,Piped Gas,2024-11-19 15:23:00.308454+05:30,t,f
+113,IRM Energy Private Limited,113,Piped Gas,2024-11-19 15:23:00.308454+05:30,t,f
+114,Himachal Pradesh State Electricity Board,114,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+115,Torrent Power (Bhiwandi),115,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+116,Power And Electricity Department - MIZORAM,116,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+117,New Delhi Municipal Council (NDMC),117,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+118,Jaipur Vidhyut Vitran Nigam Limited (JVVNL),118,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+119,Torrent Power (Surat),119,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+120,Renewal Premium/ Revival,120,Insurance Payment,2024-11-19 15:23:00.308454+05:30,t,f
+121,Aeps Settlement,121,Other,2024-11-19 15:23:00.308454+05:30,t,f
+122,Home Credit,122,Credit Card Home,2024-11-19 15:23:00.308454+05:30,t,f
+123,Bank of Baroda,123,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+124,IndusInd Bank,124,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+125,Indian Highways Management Company,125,FASTag,2024-11-19 15:23:00.308454+05:30,t,f
+126,Axis Bank,126,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+127,IDFC First Bank,127,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+128,HDFC Bank,128,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+129,Kotak Mahindra Bank,129,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+130,Loan Tap,130,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+131,Shriram City Union Finance Limited,131,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+132,DMI Finance,132,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+133,Indiabulls Consumer Finance Limited,133,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+134,Tata Capital,134,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+135,"Tata Capital,",135,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+136,Faircent,136,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+137,Capri Global Capital Limited,137,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+138,Capri Global Housing Finance,138,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+139,Bajaj Auto Finance,139,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+140,Snapmint,140,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+141,Aditya Birla Housing Finance Limited,141,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+142,L&T Housing Finance,142,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+143,L&T Finance Limited,143,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+144,Aspire Home Finance,144,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+145,ESS KAY FINCORP,145,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+146,Indiabulls Housing Finance,146,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+147,IDFC First Bank Limited,147,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+148,Hero FinCorp,148,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+149,Aavas Financiers,149,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+150,Arohan Financial Services Limited,150,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+151,I2I funding,151,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+152,LokSuvidha,152,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+153,Flex Salary,153,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+154,Paisa Dukan,154,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+155,Varthana,155,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+156,Jana Small Finance Bank,156,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+157,Telangana southern power,157,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+158,Telangana northern power,158,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+159,Jammu & Kashmir power Development department,159,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+160,chandigarh electricity,160,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+161,THRISSUR CORPORATION ELECTRICITY DEPARTMENT,161,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+162,Haryana Urban Development Authority,162,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+163,government of puducherry electricity department,163,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+164,LAKSHADWEEP ELECTRICITY DEPARTMENT,164,Electricity Bill,2024-11-19 15:23:00.308454+05:30,t,f
+165,hsiidc,165,Financial Service,2024-11-19 15:23:00.308454+05:30,t,f
+166,Aditya Birla Sun Life Insurance,166,Insurance Payment,2024-11-19 15:23:00.308454+05:30,t,f
+167,SBI Life Insurance,167,Insurance Payment,2024-11-19 15:23:00.308454+05:30,t,f
+168,Bajaj Allianz Life Insurance,168,Insurance Payment,2024-11-19 15:23:00.308454+05:30,t,f
+169,Reliance Nippon Life Insurance,169,Insurance Payment,2024-11-19 15:23:00.308454+05:30,t,f
+170,IndiaFirst Life Insurance,170,Insurance Payment,2024-11-19 15:23:00.308454+05:30,t,f
+171,Tata AIA Life Insurance,171,Insurance Payment,2024-11-19 15:23:00.308454+05:30,t,f
+172,Exide Life Insurance,172,Insurance Payment,2024-11-19 15:23:00.308454+05:30,t,f
+173,Pramerica Life Insurance,173,Insurance Payment,2024-11-19 15:23:00.308454+05:30,t,f
+174,Max Life Insurance,174,Insurance Payment,2024-11-19 15:23:00.308454+05:30,t,f
+175,HDFC Life Insurance,175,Insurance Payment,2024-11-19 15:23:00.308454+05:30,t,f
+176,Ahmedabad Municipal Corporation,176,Water,2024-11-19 15:23:00.308454+05:30,t,f
+177,Bangalore Water Supply and Sewerage Board,177,Water,2024-11-19 15:23:00.308454+05:30,t,f
+178,Bhopal Municipal Corporation Water,178,Water,2024-11-19 15:23:00.308454+05:30,t,f
+179,Delhi Development Authority (DDA) Water,179,Water,2024-11-19 15:23:00.308454+05:30,t,f
+180,Gwalior Municipal Corporation Water,180,Water,2024-11-19 15:23:00.308454+05:30,t,f
+181,Indore Municipal Corporation Water,181,Water,2024-11-19 15:23:00.308454+05:30,t,f
+182,Jabalpur Municipal Corporation Water,182,Water,2024-11-19 15:23:00.309453+05:30,t,f
+183,Municipal Corporation Jalandhar,183,Water,2024-11-19 15:23:00.309453+05:30,t,f
+184,Municipal Corporation Ludhiana Water,184,Water,2024-11-19 15:23:00.309453+05:30,t,f
+185,Mysuru City Corporation,185,Water,2024-11-19 15:23:00.309453+05:30,t,f
+186,New Delhi Municipal Council (NDMC) Water,186,Water,2024-11-19 15:23:00.309453+05:30,t,f
+187,Pimpri Chinchwad Municipal Corporation(PCMC),187,Water,2024-11-19 15:23:00.309453+05:30,t,f
+188,Pune Municipal Corporation Water,188,Water,2024-11-19 15:23:00.309453+05:30,t,f
+189,Surat Municipal Corporation Water,189,Water,2024-11-19 15:23:00.309453+05:30,t,f
+190,Rajasthan Water BillPrepaid Validity,190,Water,2024-11-19 15:23:00.309453+05:30,t,f
+191,Kerala Water Authority KWA,191,Water,2024-11-19 15:23:00.309453+05:30,t,f
+192,Pashchimanchal Vidyut Vitran Nigam Limited,192,Electricity Bill,2024-11-19 15:23:00.309453+05:30,t,f
+193,Madhyanchal Vidyut Vitaran Nigam Ltd,193,Electricity Bill,2024-11-19 15:23:00.309453+05:30,t,f
+194,Purvanchal Vidyut Vitaran Nigam Limited,194,Electricity Bill,2024-11-19 15:23:00.309453+05:30,t,f
+195,Torrent Power Limited - Shil-Mumbra-Kalwa (SMK),195,Electricity Bill,2024-11-19 15:23:00.309453+05:30,t,f
+196,Paschim Kshetra Vitaran - MADHYA PRADESH,196,Electricity Bill,2024-11-19 15:23:00.309453+05:30,t,f
+197,"Public Works Department (PWD),Goa",197,Water,2024-11-19 15:23:00.309453+05:30,t,f
+198,TATA POWER PART PAYMENT,198,Electricity Bill,2024-11-19 15:23:00.309453+05:30,t,f
+199,Dakshin Gujarat Vij Company Limited (DGVCL),199,Electricity Bill,2024-11-19 15:23:00.309453+05:30,t,f
+200,HP-GAS,200,Piped Gas,2024-11-19 15:23:00.309453+05:30,t,f
+201,BHARAT-GAS,201,Piped Gas,2024-11-19 15:23:00.309453+05:30,t,f
+202,INDANE-GAS,202,Piped Gas,2024-11-19 15:23:00.309453+05:30,t,f
+203,Bangalore Electricity Supply Company Ltd. (BESCOM),203,Electricity Bill,2024-11-19 15:23:00.309453+05:30,t,f
+204,Tata Power - Delhi,204,Electricity Bill,2024-11-19 15:23:00.309453+05:30,t,f

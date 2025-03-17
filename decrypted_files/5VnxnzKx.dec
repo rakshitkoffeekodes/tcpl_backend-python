@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ExtBillPayResponse><responseCode>001</responseCode><errorInfo><error><errorCode>E018</errorCode><errorMessage>Biller mode is invalid</errorMessage></error></errorInfo></ExtBillPayResponse>

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin PDF</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: #333;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+        .img-container {
+            margin: 10px 0;
+        }
+        .img-container img {
+            max-width: 100px; /* Adjust as needed */
+            max-height: 100px; /* Adjust as needed */
+            border: 1px solid #ddd;
+        }
+        .file-link {
+            display: block;
+            margin: 10px 0;
+            color: #007BFF;
+        }
+    </style>
+</head>
+<body>
+    <h1>Admin Details</h1>
+    <table>
+        <tr>
+            <th>ID</th>
+            <td>{{ admin.admin_id }}</td>
+        </tr>
+        <tr>
+            <th>Name</th>
+            <td>{{ admin.name }}</td>
+        </tr>
+        <tr>
+            <th>Profile Image</th>
+            <td>
+                <div class="img-container">
+                    {% if admin.profile_image %}
+                        <img src="{{ admin.profile_image.url }}" alt="Profile Image"/>
+                    {% else %}
+                        No Profile Image
+                    {% endif %}
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <th>Docs Files</th>
+            <td>
+                <table>
+                    {% for key, value in admin.docs_files.items %}
+                        <tr>
+                            <td>{{ key }}</td>
+                            <td class="img-container">
+                                {% if value|slice:"-4:" == ".jpg" or value|slice:"-4:" == ".png" %}
+                                    <img src="{{ value }}" alt="{{ key }}"/>
+                                {% else %}
+                                    <a href="{{ value }}" class="file-link" target="_blank">View {{ key }}</a>
+                                {% endif %}
+                            </td>
+                        </tr>
+                    {% endfor %}
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <th>Stamp Documents</th>
+            <td>
+                <table>
+                    {% for stamp_doc in admin.stamp_docs %}
+                        <tr>
+                            <td>Stamp ID {{ stamp_doc.stamp_id }}</td>
+                            <td class="img-container">
+                                {% if stamp_doc.stamp_file|slice:"-4:" == ".jpg" or stamp_doc.stamp_file|slice:"-4:" == ".png" %}
+                                    <img src="{{ stamp_doc.stamp_file }}" alt="Stamp ID {{ stamp_doc.stamp_id }}"/>
+                                {% else %}
+                                    <a href="{{ stamp_doc.stamp_file }}" class="file-link" target="_blank">View Stamp ID {{ stamp_doc.stamp_id }}</a>
+                                {% endif %}
+                            </td>
+                        </tr>
+                    {% endfor %}
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <th>Created At</th>
+            <td>{{ admin.created_at }}</td>
+        </tr>
+        <tr>
+            <th>Updated At</th>
+            <td>{{ admin.updated_at }}</td>
+        </tr>
+        <tr>
+            <th>Created By</th>
+            <td>{{ admin.created_by.username }}</td>
+        </tr>
+    </table>
+</body>
+</html>

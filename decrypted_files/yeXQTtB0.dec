@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ExtBillPayResponse><responseCode>001</responseCode><responseReason>Failure</responseReason><errorInfo><error><errorCode>PMD013</errorCode><errorMessage>Amount not within configured range for Biller for the Payment mode</errorMessage></error><error><errorCode>PMD015</errorCode><errorMessage>Amount not within configured range for Biller for the Initiating channel</errorMessage></error><error><errorCode>AMT010</errorCode><errorMessage>Payment amount is unacceptable</errorMessage></error></errorInfo></ExtBillPayResponse>

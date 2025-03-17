@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<billFetchResponse><responseCode>000</responseCode><inputParams><input><paramName>City</paramName><paramValue>Surat</paramValue></input><input><paramName>Service Number</paramName><paramValue>501159921</paramValue></input></inputParams><billerResponse><billAmount>86000</billAmount><billDate>2025-03-05</billDate><billNumber>202050493598</billNumber><billPeriod>NA</billPeriod><customerName>ANISH KIRITKUMAR PARIKH</customerName><dueDate>2025-03-17</dueDate></billerResponse></billFetchResponse>

@@ -1,0 +1,72 @@
+{
+    "billerInfoResponse": {
+        "responseCode": "000",
+        "biller": {
+            "billerId": "VODA00000NAT96",
+            "billerName": "Vi Postpaid (Fetch and Pay)",
+            "billerCategory": "Mobile Postpaid",
+            "billerAdhoc": "true",
+            "billerCoverage": "IND",
+            "billerFetchRequiremet": "MANDATORY",
+            "billerPaymentExactness": null,
+            "billerSupportBillValidation": "NOT_SUPPORTED",
+            "supportPendingStatus": "Yes",
+            "supportDeemed": "Yes",
+            "billerStatus": "ACTIVE",
+            "billerTimeout": "480",
+            "billerInputParams": {
+                "paramInfo": {
+                    "paramName": "Mobile Number",
+                    "dataType": "NUMERIC",
+                    "isOptional": "false",
+                    "minLength": "10",
+                    "maxLength": "10",
+                    "regEx": "^[6-9]{1}[0-9]{9}$",
+                    "visibility": "true"
+                }
+            },
+            "billerAdditionalInfo": null,
+            "billerAmountOptions": "BASE_BILL_AMOUNT,,,",
+            "billerPaymentModes": "Internet Banking, Debit Card, Credit Card, Prepaid Card, IMPS, UPI, Wallet, NEFT, AEPS",
+            "billerDescription": null,
+            "rechargeAmountInValidationRequest": null,
+            "billerPaymentChannels": {
+                "paymentChannelInfo": [
+                    {
+                        "paymentChannelName": "INTB",
+                        "minAmount": "100",
+                        "maxAmount": "100000000"
+                    },
+                    {
+                        "paymentChannelName": "MOB",
+                        "minAmount": "100",
+                        "maxAmount": "100000000"
+                    },
+                    {
+                        "paymentChannelName": "MOBB",
+                        "minAmount": "100",
+                        "maxAmount": "100000000"
+                    },
+                    {
+                        "paymentChannelName": "INT",
+                        "minAmount": "100",
+                        "maxAmount": "100000000"
+                    }
+                ]
+            },
+            "billerAdditionalInfoPayment": null,
+            "planAdditionalInfo": null,
+            "planMdmRequirement": "NOT_SUPPORTED",
+            "billerResponseType": null,
+            "billerPlanResponseParams": null,
+            "interchangeFeeCCF1": {
+                "feeCode": "CCF1",
+                "feeDirection": "C2B",
+                "flatFee": "0",
+                "percentFee": "0.00",
+                "feeMinAmt": "0",
+                "feeMaxAmt": "2147483647"
+            }
+        }
+    }
+}

@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<billerInfoResponse>
+    <responseCode>000</responseCode>
+    <biller>
+        <billerId>DGVCL0000GUJ01</billerId>
+        <billerName>Dakshin Gujarat Vij Company Limited (DGVCL)</billerName>
+        <billerCategory>Electricity</billerCategory>
+        <billerAdhoc>true</billerAdhoc>
+        <billerCoverage>IND-GUJ</billerCoverage>
+        <billerFetchRequiremet>NOT_SUPPORTED</billerFetchRequiremet>
+        <billerPaymentExactness />
+        <billerSupportBillValidation>OPTIONAL</billerSupportBillValidation>
+        <supportPendingStatus>Yes</supportPendingStatus>
+        <supportDeemed>Yes</supportDeemed>
+        <billerStatus>ACTIVE</billerStatus>
+        <billerTimeout>480</billerTimeout>
+        <billerInputParams>
+            <paramInfo>
+                <paramName>Consumer Number</paramName>
+                <dataType>NUMERIC</dataType>
+                <isOptional>false</isOptional>
+                <minLength>5</minLength>
+                <maxLength>11</maxLength>
+                <regEx>^([0-9]{11}|[0-9]{5})$</regEx>
+                <visibility>true</visibility>
+            </paramInfo>
+        </billerInputParams>
+        <billerAdditionalInfo>
+            <paramInfo>
+                <paramName>Customer Name</paramName>
+            </paramInfo>
+        </billerAdditionalInfo>
+        <billerAmountOptions>|BASE_BILL_AMOUNT,,,</billerAmountOptions>
+        <billerPaymentModes>Internet Banking, Debit Card, Credit Card, Prepaid Card, IMPS, UPI, Wallet, NEFT, AEPS, Account Transfer</billerPaymentModes>
+        <billerDescription />
+        <rechargeAmountInValidationRequest />
+        <billerPaymentChannels>
+            <paymentChannelInfo>
+                <paymentChannelName>INT</paymentChannelName>
+                <minAmount>100</minAmount>
+                <maxAmount>500000000</maxAmount>
+            </paymentChannelInfo>
+            <paymentChannelInfo>
+                <paymentChannelName>INTB</paymentChannelName>
+                <minAmount>100</minAmount>
+                <maxAmount>500000000</maxAmount>
+            </paymentChannelInfo>
+            <paymentChannelInfo>
+                <paymentChannelName>MOB</paymentChannelName>
+                <minAmount>100</minAmount>
+                <maxAmount>500000000</maxAmount>
+            </paymentChannelInfo>
+            <paymentChannelInfo>
+                <paymentChannelName>MOBB</paymentChannelName>
+                <minAmount>100</minAmount>
+                <maxAmount>500000000</maxAmount>
+            </paymentChannelInfo>
+            <paymentChannelInfo>
+                <paymentChannelName>POS</paymentChannelName>
+                <minAmount>100</minAmount>
+                <maxAmount>500000000</maxAmount>
+            </paymentChannelInfo>
+            <paymentChannelInfo>
+                <paymentChannelName>MPOS</paymentChannelName>
+                <minAmount>100</minAmount>
+                <maxAmount>500000000</maxAmount>
+            </paymentChannelInfo>
+            <paymentChannelInfo>
+                <paymentChannelName>ATM</paymentChannelName>
+                <minAmount>100</minAmount>
+                <maxAmount>500000000</maxAmount>
+            </paymentChannelInfo>
+            <paymentChannelInfo>
+                <paymentChannelName>BNKBRNCH</paymentChannelName>
+                <minAmount>100</minAmount>
+                <maxAmount>500000000</maxAmount>
+            </paymentChannelInfo>
+            <paymentChannelInfo>
+                <paymentChannelName>KIOSK</paymentChannelName>
+                <minAmount>100</minAmount>
+                <maxAmount>500000000</maxAmount>
+            </paymentChannelInfo>
+            <paymentChannelInfo>
+                <paymentChannelName>AGT</paymentChannelName>
+                <minAmount>100</minAmount>
+                <maxAmount>500000000</maxAmount>
+            </paymentChannelInfo>
+            <paymentChannelInfo>
+                <paymentChannelName>BSC</paymentChannelName>
+                <minAmount>100</minAmount>
+                <maxAmount>500000000</maxAmount>
+            </paymentChannelInfo>
+        </billerPaymentChannels>
+        <billerAdditionalInfoPayment />
+        <planAdditionalInfo />
+        <planMdmRequirement>NOT_SUPPORTED</planMdmRequirement>
+        <billerResponseType>SINGLE</billerResponseType>
+        <billerPlanResponseParams />
+        <interchangeFeeCCF1>
+            <feeCode>CCF1</feeCode>
+            <feeDirection>C2B</feeDirection>
+            <flatFee>0</flatFee>
+            <percentFee>0.00</percentFee>
+            <feeMinAmt>0</feeMinAmt>
+            <feeMaxAmt>999999999</feeMaxAmt>
+        </interchangeFeeCCF1>
+    </biller>
+</billerInfoResponse>

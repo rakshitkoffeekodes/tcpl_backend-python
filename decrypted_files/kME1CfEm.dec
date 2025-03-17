@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<billFetchResponse><responseCode>000</responseCode><inputParams><input><paramName>Consumer Number</paramName><paramValue>17416020484</paramValue></input></inputParams><billerResponse><billAmount>0</billAmount><billDate>2024-11-30</billDate><billNumber>1741602048420241130</billNumber><billPeriod>Oct,-Nov,24</billPeriod><customerName>PRAHALADSINGH LAXMANSINGH CHUNDAWAT</customerName><dueDate>2024-12-10</dueDate></billerResponse></billFetchResponse>

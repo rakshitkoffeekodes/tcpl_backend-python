@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ExtBillPayResponse>
+    <responseCode>204</responseCode>
+    <errorInfo>
+        <error>
+            <errorCode>E211</errorCode>
+            <errorMessage>billerResponse value mismatch.</errorMessage>
+        </error>
+    </errorInfo>
+</ExtBillPayResponse>
